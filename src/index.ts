@@ -4,4 +4,5 @@
 // The "WA" global object is available from anywhere.
 
 console.log('Script started successfully');
-WA.openCoWebSite('https://workadventu.re');
+// I don't want to open this on start
+// WA.openCoWebSite('https://workadventu.re');
